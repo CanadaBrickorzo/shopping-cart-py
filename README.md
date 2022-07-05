@@ -1,3 +1,3 @@
 # shopping-cart-py
 
-Simple shopping cart application made with Python
+Simple shopping cart application made with Python.
